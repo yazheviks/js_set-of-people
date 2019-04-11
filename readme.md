@@ -1,4 +1,4 @@
-# Boilerplate for JS tasks
+# Set of people
 
 **Read the guideline before start**
 
