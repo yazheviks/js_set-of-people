@@ -1,8 +1,8 @@
 {
-  "name": "js-task-boilerplate",
+  "name": "set-of-people",
   "version": "1.0.0",
-  "description": "js task boilerplate",
-  "main": "src/sum.js",
+  "description": "Set of people",
+  "main": "src/setOfPeople.js",
   "scripts": {
     "test": "jest",
     "lint": "eslint **/*.js"
