@@ -30,7 +30,7 @@
  * the last (and only) time when 3 entered is before the last time when 1
  * entered). Return an empty set if there are no people in the room.
  *
- * setOfPeople([1, 3, 2, 1, 2, 1]) === new Set(1, 3)
+ * setOfPeople([1, 3, 2, 1, 2, 1]) === new Set(3, 1)
  * setOfPeople([1, 1]) === new Set()
  *
  * @param {number[]} people
